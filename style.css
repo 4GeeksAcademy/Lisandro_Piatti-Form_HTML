@@ -1,3 +1,6 @@
+body {
+  height: 100vh;
+}
 h1 {
   background-color: lightgrey;
   padding: 10px;
@@ -13,4 +16,9 @@ h1 {
 
 .footer-style {
   background-color: lightgrey;
+}
+
+.tablafondo {
+  width: 60rem;
+  border: 3px solid lightgrey;
 }
